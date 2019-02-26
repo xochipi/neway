@@ -16,7 +16,7 @@
       "azienda": "Azienda s.r.l",
       "luogo": "casa tua",
       "descrizione": "Lorem ipsum dolor sit amet",
-      "tipoContratto": "part-time",
+      "tipoContratto": "full-time",
       "retribuzione": 1000
     },
     {
@@ -26,7 +26,7 @@
       "luogo": "casa tua",
       "descrizione": "Lorem ipsum dolor sit amet",
       "tipoContratto": "part-time",
-      "retribuzione": 1000
+      "retribuzione": 500
     },
     {
       "id": 3,
@@ -34,8 +34,17 @@
       "azienda": "Azienda s.r.l",
       "luogo": "casa tua",
       "descrizione": "Lorem ipsum dolor sit amet",
+      "tipoContratto": "full-time",
+      "retribuzione": 1200
+    },
+    {
+      "id": 4,
+      "titolo": "Lorem ipsum 4",
+      "azienda": "Azienda s.r.l",
+      "luogo": "casa tua",
+      "descrizione": "Lorem ipsum dolor sit amet",
       "tipoContratto": "part-time",
-      "retribuzione": 1000
+      "retribuzione": 800
     }
   ],
   "profile": {
