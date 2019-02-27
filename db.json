@@ -47,6 +47,10 @@
       "retribuzione": 800
     }
   ],
+  "utenti": {
+    "nome": "Roberto",
+    "cognome": "Castiglione"
+  },
   "profile": {
     "name": "typicode"
   }
