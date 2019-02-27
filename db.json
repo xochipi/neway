@@ -48,8 +48,11 @@
     }
   ],
   "utenti": {
+    "id": 1,
     "nome": "Roberto",
-    "cognome": "Castiglione"
+    "cognome": "Castiglione",
+    "mail": "roberto.castiglione@mail.it",
+    "cv": 1
   },
   "profile": {
     "name": "typicode"
