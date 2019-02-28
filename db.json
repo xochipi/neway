@@ -14,7 +14,7 @@
       "id": 1,
       "titolo": "Lorem ipsum 1",
       "azienda": "Azienda s.r.l",
-      "luogo": "casa tua",
+      "luogo": "Napoli",
       "descrizione": "Lorem ipsum dolor sit amet",
       "tipoContratto": "full-time",
       "retribuzione": 1000
@@ -23,7 +23,7 @@
       "id": 2,
       "titolo": "Dolor sit 2",
       "azienda": "Caterni",
-      "luogo": "casa tua",
+      "luogo": "Genova",
       "descrizione": "Lorem ipsum dolor sit amet",
       "tipoContratto": "part-time",
       "retribuzione": 500
@@ -32,7 +32,7 @@
       "id": 3,
       "titolo": "Amet 3",
       "azienda": "Gani s.r.l",
-      "luogo": "casa tua",
+      "luogo": "Torino",
       "descrizione": "Lorem ipsum dolor sit amet",
       "tipoContratto": "full-time",
       "retribuzione": 1200
@@ -41,7 +41,7 @@
       "id": 4,
       "titolo": "Lorem dolor 4",
       "azienda": "Azienda s.r.l",
-      "luogo": "casa tua",
+      "luogo": "Firenze",
       "descrizione": "Lorem ipsum dolor sit amet",
       "tipoContratto": "part-time",
       "retribuzione": 800
@@ -50,7 +50,7 @@
       "id": 5,
       "titolo": "Sit amet 5",
       "azienda": "Caterni",
-      "luogo": "casa tua",
+      "luogo": "Napoli",
       "descrizione": "Lorem ipsum dolor sit amet",
       "tipoContratto": "part-time",
       "retribuzione": 300
